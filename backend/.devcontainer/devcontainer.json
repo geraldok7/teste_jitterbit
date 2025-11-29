@@ -1,0 +1,21 @@
+{
+  "name": "Orders API DevContainer",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+  "features": {},
+  "forwardPorts": [3001],
+  "containerEnv": {
+    "PORT": "3001",
+    "MONGO_URL": "mongodb://host.docker.internal:27017",
+    "MONGO_DB": "ordersdb"
+  },
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.formatOnSave": true
+      },
+      "extensions": ["dbaeumer.vscode-eslint"]
+    }
+  }
+}
+
