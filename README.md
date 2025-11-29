@@ -124,11 +124,6 @@ MongoDB local:
 - Abra `frontend/` ou `backend/` no VS Code e escolha “Reopen in Container”
 - Dependências são instaladas automaticamente
 
-## Documentação da API
-- Passo a passo no Postman: `docs/postman.md`
-- Arquivos prontos para importar:
-  - Collection: `docs/postman_collection.json`
-  - Environment: `docs/postman_environment.json`
 
 ## Códigos de resposta
 - `201 Created` — criado
