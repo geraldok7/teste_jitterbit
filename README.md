@@ -139,5 +139,14 @@ MongoDB local:
 - Swagger (`swagger-ui-express`)
 - CI com lint e testes
 
+## Como contribuir
+- Abra uma issue descrevendo claramente o problema, contexto e passos para reproduzir
+- Envie pull requests pequenos e focados, seguindo mensagens de commit objetivas
+- Mantenha o padrão de código e organização existentes; evite introduzir libs não usadas no projeto
+- Adicione testes quando alterar regras de negócio e rode lint antes do PR
+
+## Licença
+- Este projeto está licenciado sob a licença MIT. Veja `LICENSE` para detalhes.
+
 ---
 Para dúvidas ou melhorias, abrir issue com contexto do endpoint e logs relevantes.
