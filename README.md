@@ -149,4 +149,3 @@ MongoDB local:
 - Este projeto está licenciado sob a licença MIT. Veja `LICENSE` para detalhes.
 
 ---
-Para dúvidas ou melhorias, abrir issue com contexto do endpoint e logs relevantes.
